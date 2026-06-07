@@ -115,8 +115,7 @@ It contains:
 
 This platform was architected and engineered by:
 
-- **Yassine Kamouss** — Cloud Architecture, MLOps Engineering, Kubernetes & Kubeflow
-- **Yahya Ahmane** — AI Integration, LLM & Agent Systems
+- **Yassine Kamouss** — Cloud Architecture, MLOps Engineering, Kubernetes, Kubeflow & Agentic AI Systems
 
 ---
 Smart eCommerce Intelligence — FST Tanger, LSI 2, Modules: Data Mining & SID, 2025/2026
