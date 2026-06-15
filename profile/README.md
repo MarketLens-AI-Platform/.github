@@ -42,7 +42,7 @@ This organization addresses a critical business need — continuously monitoring
 
 The platform is organized into decoupled layers, each independently deployable and observable:
 
-![Architecture Globale](./docs/architecture.png)
+![Architecture Globale](./docs/architecture1.png)
 
 ### 1. A2A Scraping Layer
 Autonomous Agent-to-Agent crawlers target Shopify and WooCommerce storefronts using Storefront APIs, REST APIs, and Playwright for JavaScript-rendered pages.
