@@ -47,7 +47,7 @@ This organization addresses a critical business need — continuously monitoring
 
 The platform is organized into five decoupled layers, each independently deployable and observable, communicating via **AWS S3** artifact passing:
 
-![Architecture Globale](./docs/architecture1.png)
+![Architecture Globale](./docs/architecture.png)
 
 ### 1. A2A Scraping Layer
 Autonomous Agent-to-Agent crawlers target Shopify and WooCommerce storefronts using Storefront APIs, REST APIs, and Playwright for JavaScript-rendered pages. Deployed as a Kubernetes CronJob on a 6-hour schedule.
